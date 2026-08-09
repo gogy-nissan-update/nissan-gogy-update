@@ -1,8 +1,8 @@
 {
-    "versionCode":  11,
-    "versionName":  "2.0",
-    "apkFile":  "NissanGogy-2.0.apk",
-    "sha256":  "270A8A1E03485089CEE78741C776CB4C1EC096AE9CA5C24044C1C8411B7582AD",
-    "sizeBytes":  7952461,
-    "napomena":  ""
+  "versionCode": 12,
+  "versionName": "2.1",
+  "apkFile": "NissanGogy-2.1.apk",
+  "sha256": "391FC2D39269F84B5F4331CF1A84ACAEC82CB006B96A3564DF652A3596517F9E",
+  "sizeBytes": 8288419,
+  "napomena": ""
 }
